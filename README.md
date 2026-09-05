@@ -19,13 +19,13 @@ software development, systems, networking and infrastructure.
 Java client/server chat application using TCP/UDP, multithreading and
 the Factory pattern.
 
-[View repository]
+[[View repository]](https://github.com/ykorvss222/Chat-Multi-Protocolo)
 
 ### 🗺️ Graph & Route Visualizer
 Collaborative Java project implementing DFS, BFS, Dijkstra,
 Bellman-Ford, Kruskal and Prim on an interactive map.
 
-[View repository]
+[[View repository]](https://github.com/AxelMonge1/Grafo_Oaxaca)
 
 ### 🎮 Multiplayer Unity Prototype
 Collaborative/private Unity project involving custom physics,
